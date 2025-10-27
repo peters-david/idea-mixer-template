@@ -1,3 +1,3 @@
 Runbooks help teams document detailed instructions of how to perform specific tasks in their system.
 Having a cli programm where coworkers can add and modify runbooks could increase their productivity, as it would eliminate the need to leave the terminal.
-![Window](a2eceefc-214b-415d-a9f0-dfc8b30b3eaa.jpg)
+![Window](a2eceefc-214b-415d-a9f0-dfc8b30b3eaa.png)
